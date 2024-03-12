@@ -1,6 +1,15 @@
 # Azaré Mercer
 
-- **Phone:** +1 814 381 1701
+---
+
+## Education
+
+- **Master's degree in Data Science & Analytics**  
+  *Pennsylvania Western University* - Clarion, PA  
+
+- **Bachelor's degree in Business Administration - Personal Financial Planning**  
+  *Edinboro University of Pennsylvania* - Edinboro, PA  
+
 - **Email:** azaremercerfp@gmail.com
 - **Location:** Erie, PA 16509
 - **Willing to relocate anywhere**
@@ -18,7 +27,6 @@ Highly-motivated business professional with a desire to take on new challenges, 
 
 ### Financial Analyst
 **LECOM Health** - Erie, PA  
-*October 2023 to March 2024*
 
 - Reviewed financial documents and records to assess accuracy and compliance with applicable laws, regulations, and standards.
 - Created dashboards to monitor key performance indicators related to client acquisition, retention, and engagement.
@@ -27,7 +35,6 @@ Highly-motivated business professional with a desire to take on new challenges, 
 
 ### Licensed Sales Producer
 **Allstate Insurance** - Erie, PA  
-*June 2023 to September 2023*
 
 - Responded to inquiries and explained product features and service advantages to potential customers.
 - Increased sales through consultative sales approach and focused relationship building with new and existing policyholders.
@@ -36,7 +43,6 @@ Highly-motivated business professional with a desire to take on new challenges, 
 
 ### Financial Planner
 **BROOKLYN FI** - Brooklyn, NY  
-*March 2021 to May 2023*
 
 - Used Right Capital to build full comprehensive financial plans for technology professionals and small business owners, specializing in equity compensation.
 - Assisted CFP practitioners in implementing, monitoring, and updating financial plans.
@@ -45,31 +51,27 @@ Highly-motivated business professional with a desire to take on new challenges, 
 
 ---
 
-## Education
+## Data Science Projects
 
-- **Master's degree in Data Science & Analytics**  
-  *Pennsylvania Western University* - Clarion, PA  
-  *August 2023 to Present*
-
-- **Bachelor's degree in Business Administration - Personal Financial Planning**  
-  *Edinboro University of Pennsylvania* - Edinboro, PA  
-  *August 2017 to May 2021*
+(You can add your relevant data science projects here)
 
 ---
 
-## Relevant Skills
+## Skills
 
-- SQL
 - Python
-- Financial Analysis
-- Financial Modeling
-- Financial Planning
-- Data Analysis Skills
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 - Machine Learning
+- Data Analysis
+- Financial Analysis
 - Microsoft Excel
-- Customer Relationship Management
-- Communication Skills
+- Financial Planning
+- Forecasting
+- Data Visualization
 - Leadership
-- Project Management
-- Marketing
-- Microsoft Office
+- Communication Skills
+- Customer Relationship Management
