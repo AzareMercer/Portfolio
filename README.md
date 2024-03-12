@@ -10,9 +10,12 @@
 - **Bachelor's degree in Business Administration - Personal Financial Planning**  
   *Edinboro University of Pennsylvania* - Edinboro, PA  
 
+---
+
+## Contact
+
 - **Email:** azaremercerfp@gmail.com
 - **Location:** PA
-- **Authorized to work in the US for any employer**
 
 ---
 
