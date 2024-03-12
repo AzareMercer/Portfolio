@@ -11,8 +11,7 @@
   *Edinboro University of Pennsylvania* - Edinboro, PA  
 
 - **Email:** azaremercerfp@gmail.com
-- **Location:** Erie, PA 16509
-- **Willing to relocate anywhere**
+- **Location:** PA
 - **Authorized to work in the US for any employer**
 
 ---
