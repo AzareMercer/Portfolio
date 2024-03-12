@@ -1,13 +1,13 @@
 # Financial Planner | Data Scientist
 
-###Education
+### Education
 Data Science, MS
 Personal Finance, BS
 
-###Work Experience
+### Work Experience
 Financial Analyst
 -LECOM Health
 -Allstate insurance
 -Brooklyn Fi
 
-###Projects
+### Projects
