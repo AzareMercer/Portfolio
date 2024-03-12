@@ -2,7 +2,7 @@
 
 #### Education
 Data Science, MS
-Personal Finance, BS
+| Personal Finance, BS
 
 #### Work Experience
 # Financial Analyst
