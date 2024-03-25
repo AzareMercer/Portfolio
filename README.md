@@ -63,10 +63,6 @@ Highly-motivated business professional with a desire to take on new challenges, 
 
 - Python
 - SQL
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
 - Machine Learning
 - Data Analysis
 - Financial Analysis
