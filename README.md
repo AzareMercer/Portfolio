@@ -73,4 +73,4 @@ Highly-motivated business professional with a desire to take on new challenges, 
 - Leadership
 - Communication Skills
 - Customer Relationship Management
-- https://www.credly.com/badges/ad8b20d4-4fb4-4cff-b3b1-6b184fa44101/public_url
+https://www.credly.com/badges/ad8b20d4-4fb4-4cff-b3b1-6b184fa44101/public_url
