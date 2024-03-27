@@ -56,6 +56,7 @@ Highly-motivated business professional with a desire to take on new challenges, 
 ## Data Science Projects
 
 (You can add your relevant data science projects here)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad8b20d4-4fb4-4cff-b3b1-6b184fa44101" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
